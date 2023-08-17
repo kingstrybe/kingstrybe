@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Google Data Analyst Capstone</b>
-  - [Divvy_Bike_Share]
+  - [Divvy_Bike_Share](https://github.com/kingstrybe/Google-Data-Analytics-Certificate-Course-Capstone-)
 
 <h2>📺 Certifications</h2>
 - Google Data Analytics Certificate (https://coursera.org/share/3086942477f3673292f1bcf3a1931651)
