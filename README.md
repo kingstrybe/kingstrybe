@@ -8,6 +8,7 @@
   - [Divvy_Bike_Share](https://github.com/kingstrybe/Google-Data-Analytics-Certificate-Course-Capstone-)
 
 <h2>📺 Certifications</h2>
+
 - [Google Data Analytics Certificate](https://coursera.org/share/3086942477f3673292f1bcf3a1931651)
 - [Google Advanced Data Analytics Certificate](https://coursera.org/share/726c33a0ed97dae85787ab039199a667) 
 
