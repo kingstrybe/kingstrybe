@@ -1,4 +1,4 @@
-<h1>Hi, I'm Samuel! <br/><a href="https://github.com/kingstrybe">Programmer</a>, <a href="https://www.linkedin.com/in/kingstrybe/">Data Analyst Professional</a>,
+<h1>Hi, I'm Samuel! <br/><a href="https://www.linkedin.com/in/kingstrybe/">Data Analyst Professional</a>
   
 <h2>👨‍💻 Data Analytics Project:</h2>
 
